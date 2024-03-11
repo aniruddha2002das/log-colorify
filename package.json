@@ -1,5 +1,5 @@
 {
-  "name": "log-colorify",
+  "name": "anirudddha-log-colorify",
   "version": "1.0.0",
   "description": "A library to colorify your console logs",
   "main": "lib/index.js",
@@ -12,7 +12,6 @@
     "type": "git",
     "url": "git+https://github.com/aniruddha2002das/log-colorify.git"
   },
-  "keywords": ["console log colorifier", "log", "colorify", "console"],
   "author": "Aniruddha Das <das.aniruddha665@gmail.com>",
   "license": "MIT",
   "bugs": {
