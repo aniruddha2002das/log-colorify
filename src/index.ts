@@ -3,7 +3,7 @@ export class Log {
     console.log(`%c ${msg}`, "color: green");
   }
 
-  static denger(msg: string) {
+  static danger(msg: string) {
     console.log(`%c ${msg}`, "color: red");
   }
 
